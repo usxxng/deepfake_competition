@@ -2,8 +2,8 @@
 ## 딥페이크 변조 영상 탐지 AI 경진대회
 
 [\[Competition Page\]](https://dacon.io/competitions/official/235655/overview/)<br>
-![img1](./img_1.PNG)
-![img2](./img_2.PNG)
+![img1](./git_img/img_1.PNG)
+![img2](./git_img/img_2.png)
 <br>
 Private Leaderboard : 9th (TEAM NAME : HL) 
 
